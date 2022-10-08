@@ -3,7 +3,6 @@
 
 <div align = "center">
 
-<br/>
 <h3>Kim Min Seok</h3><br/>
 👋Hello, I'm Kim Min Seok<br/>
 I am a backend and database oriented programmer.<br/>
@@ -39,8 +38,6 @@ I am a backend and database oriented programmer.<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </div>
-
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
