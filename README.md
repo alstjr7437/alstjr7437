@@ -39,5 +39,6 @@ I am a backend and database oriented programmer.<br/>
 
 </div>
 
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
