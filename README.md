@@ -10,11 +10,11 @@ I am a backend and database oriented programmer.<br/>
 
 <br/>
 
+[![Blog Badge](http://img.shields.io/badge/-Blog-white?style=flat-square&logo=Naver&link=https://blog.naver.com/alstjr7437)](https://blog.naver.com/alstjr7437)
+[![Blog Badge](http://img.shields.io/badge/-git-white?style=flat-square&logo=Git&link=https://alstjr7437.github.io)](https://alstjr7437.github.io)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjr7437&count_bg=%23203267&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-[![Blog Badge](http://img.shields.io/badge/-Blog-white?style=flat-square&logo=Naver&link=https://blog.naver.com/alstjr7437)](https://blog.naver.com/alstjr7437)
-[![Blog Badge](http://img.shields.io/badge/-git-white?style=flat-square&logo=Git&link=https://alstjr7437.github.io)](https://alstjr7437.github.io)
   
 ![Kim Min Seok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjr7437&theme=dark&show_icons=true)
 
