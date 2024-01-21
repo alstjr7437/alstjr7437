@@ -5,10 +5,10 @@
 
 <h3>Kim Min Seok</h3><br/>
 👋Hello, I'm Kim Min Seok<br/>
-🍎 I am an iOS developer! 🍎<br/>)
+🍎 I am an iOS developer! 🍎<br/>
 
 <br/>
-[TIL](https://github.com/alstjr7437/TIL
+[TIL](https://github.com/alstjr7437/TIL)
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-white?style=flat-square&logo=velog&link=https://velog.io/@alstjr7437)](https://velog.io/@alstjr7437)
 [![Blog Badge](http://img.shields.io/badge/-git-white?style=flat-square&logo=Git&link=https://alstjr7437.github.io)](https://alstjr7437.github.io)
