@@ -5,7 +5,7 @@
 
 <h3>Kim Min Seok</h3><br/>
 👋Hello, I'm Kim Min Seok<br/>
-🍎 I am an iOS developer! 🍎<br/>
+I am an iOS developer!<br/>
 
 <br/>
 
