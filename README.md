@@ -9,8 +9,6 @@ I am an iOS developer!<br/>
 
 <br/>
 
-<a href="https://github.com/alstjr7437/TIL">TIL</a>
-
 [![Blog Badge](http://img.shields.io/badge/-Blog-white?style=flat-square&logo=velog&link=https://velog.io/@alstjr7437)](https://velog.io/@alstjr7437)
 [![Blog Badge](http://img.shields.io/badge/-git-white?style=flat-square&logo=Git&link=https://alstjr7437.github.io)](https://alstjr7437.github.io)
 
@@ -19,13 +17,20 @@ I am an iOS developer!<br/>
 
 <br><br/>
 
+<h3>📜 Projects 📜</h3>
+<a href="https://github.com/RetsTalk/Ret-s-Talk">Ret's Talk</a> - AI와 대화를 통해 회고를 도와주는 앱
+
+<h3>📚 Study 📚</h3>
+<a href="https://github.com/wowap-course">왑테코</a> - 우아한 테크 코스 기반 앱 스터디 <br>
+<a href="https://github.com/orgs/AlgoLeadMe/repositories?type=source">알고리드미</a> - 알고리즘 스터디 
+
+<br><br><br>
+
 <h3>🛠️ Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
-
 
 <h3>💻 Tech Stack 💻</h3>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
